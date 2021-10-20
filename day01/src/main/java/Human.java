@@ -15,4 +15,8 @@ public class Human {
         return age;
     }
 
+    public String intruduction(){
+        return "Hello my name is "+name;
+    }
+
 }
